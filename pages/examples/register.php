@@ -1,3 +1,7 @@
+<?php
+  include 'layout/mani.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
